@@ -10,7 +10,7 @@ class mysqlDB():
         self.connection = pymysql.connect(
             host = 'localhost',
             user = 'kim',
-            passwd = '6262',
+            passwd = 'kim!',
             db = 'kim',
             charset = 'utf8',
             port = 3336,
