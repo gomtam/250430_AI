@@ -1,0 +1,47 @@
+                           InstallFactory Report화일
+
+                                                       작성: 2025-4-28/16:02:35
+
+[일반]
+타이틀: myAPP
+소스 폴더: C:\WS_SW\AI\pyQTGUI001\dist
+기본 설치 폴더: {ProgramFiles}\myAPP
+기본 설치 폴더로만 설치 가능: 아니오
+설치화일이 만들어진 폴더: C:\Users\taemi\OneDrive - 나사렛대학교\바탕 화면
+설치화일의 이름: myAPP_setup.exe
+설치화일의 언어: 한글
+설치화일의 볼륨 크기: 단일 볼륨
+설치시 화일이 이미 있으면 겹쳐쓸지 물어보기: 예
+설치 완료 후 시스템 재시작 필요함: 아니오
+
+[창]
+위자드 창 비트맵: C:\Users\taemi\OneDrive - 나사렛대학교\바탕 화면\logo.bmp
+제작자: KIM Company
+배경창 머리글: 파이큐티를 이용한 앱
+배경창 머리글 Log폰트: ffffff,ffffffd0,0,0,0,2bc,ff,0,0,0,3,2,1,12,Times New Roman
+배경창 머리글 그림자: 예
+배경창 꼬리글: Copyright(c) 2025 로봇 응용 소프트웨어팀
+배경창 꼬리글 Log폰트: ffffff,fffffff3,0,0,0,190,0,0,0,0,1,2,1,22,MS Sans Serif
+배경창 색 1: 80ff80
+배경창 색 2: 004000
+
+[단축 아이콘]
+단축 아이콘1: myAPP,C:\WS_SW\AI\pyQTGUI001\dist\main.exe,{ProgramGroup},,{ProgramFiles}\myAPP,
+단축 아이콘2: myAPP,C:\WS_SW\AI\pyQTGUI001\dist\main.exe,{DeskTop},,{ProgramFiles}\myAPP,
+프로그램그룹 이름: myAPP
+
+[레지스트리]
+레지스트리1: HKEY_CURRENT_USER\Software\Demo Application Company\Demo Application,InstallPath,문자열 값,{InstallDir},,
+레지스트리2: HKEY_CURRENT_USER\Software\Demo Application Company\Demo Application,InstallDate,문자열 값,{InstallDate},,
+
+[제거]
+제거 타입: 설치시 만든 폴더 안에 설치 이후에 만들어진 화일이 있으면 삭제할지 물어봄
+제어판의 '프로그램 추가/제거' 항목에 등록할 이름: myAPP 제거
+프로그램그룹에 추가할 제거 단축 아이콘의 이름: myAPP 제거
+
+--------------------------------------------------------------------------------
+총 소스화일의 수  : 2
+총 소스화일의 크기: 58,092,551 바이트
+
+총 설치화일의 수  : 1
+총 설치화일의 크기: 57,909,575 바이트
